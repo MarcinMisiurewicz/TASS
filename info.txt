@@ -1,0 +1,7 @@
+https://euske.github.io/pdfminer/programming.html - dokumentacja pdf minera
+
+pip install chardet
+pip install pdfminer.six
+
+tu jest fajny przykład:
+http://moria.umcs.lublin.pl/sphinx/src/programming_languages/python3/files/pdfminer.html

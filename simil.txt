@@ -1,0 +1,165 @@
+Łukasz Rzepecki PiS: 
+N: 78; PiS: 97; PO: 93; Kukiz’15: 77; PSL: 67; Nowoczesna: 74; Wolni i Solidarni: 66; PO-KO: 254; Wolność i Skuteczni: 115; Liberalno-Społeczni: 110; 
+Łukasz Rzepecki Kukiz’15: 
+PiS: 80; N: 75; Kukiz’15: 69; PO: 79; PSL: 63; Nowoczesna: 65; PO-KO: 98; Wolni i Solidarni: 60; Wolność i Skuteczni: 83; Liberalno-Społeczni: 84; 
+ 
+Małgorzata Zwiercan Kukiz’15: 
+PiS: 91; N: 93; Kukiz’15: 76; PO: 92; PSL: 70; Nowoczesna: 75; PO-KO: 83; Wolni i Solidarni: 68; Wolność i Skuteczni: 92; Liberalno-Społeczni: 99; 
+Małgorzata Zwiercan Wolni i Solidarni: 
+PiS: 47; N: 44; Kukiz’15: 45; PO: 47; PSL: 43; Nowoczesna: 44; PO-KO: 45; Wolni i Solidarni: 29; Wolność i Skuteczni: 46; Liberalno-Społeczni: 48; 
+ 
+Adam Andruszkiewicz Kukiz’15: 
+PiS: 81; N: 85; Kukiz’15: 72; PO: 80; PSL: 65; Nowoczesna: 67; PO-KO: 122; Wolni i Solidarni: 63; Wolność i Skuteczni: 90; Liberalno-Społeczni: 90; 
+Adam Andruszkiewicz Wolni i Solidarni: 
+PiS: 89; N: 93; Kukiz’15: 80; PO: 92; PSL: 64; Nowoczesna: 70; Wolni i Solidarni: 58; Wolność i Skuteczni: 98; Liberalno-Społeczni: 107; PO-KO: 119; 
+ 
+Robert Winnicki Kukiz’15: 
+PiS: 83; N: 81; Kukiz’15: 71; PO: 82; PSL: 66; Nowoczesna: 69; PO-KO: 100; Wolni i Solidarni: 63; Wolność i Skuteczni: 81; Liberalno-Społeczni: 91; 
+Robert Winnicki N: 
+PiS: 49; N: 21; Kukiz’15: 46; PO: 48; PSL: 44; Nowoczesna: 45; PO-KO: 43; Wolni i Solidarni: 43; Wolność i Skuteczni: 51; Liberalno-Społeczni: 55; 
+ 
+Jacek Protasiewicz PSL: 
+PiS: 54; N: 55; Kukiz’15: 51; PO: 55; PSL: 46; Nowoczesna: 50; PO-KO: 63; Wolni i Solidarni: 47; Wolność i Skuteczni: 57; Liberalno-Społeczni: 60; 
+Jacek Protasiewicz PO: 
+PiS: 89; N: 88; Kukiz’15: 73; PO: 88; PSL: 67; Nowoczesna: 69; PO-KO: 106; Wolni i Solidarni: 65; Wolność i Skuteczni: 85; Liberalno-Społeczni: 101; 
+ 
+Paweł Kobyliński Kukiz’15: 
+PiS: 86; N: 78; Kukiz’15: 72; PO: 84; PSL: 62; Nowoczesna: 64; PO-KO: 106; Wolność i Skuteczni: 52; Wolni i Solidarni: 68; Liberalno-Społeczni: 63; 
+Paweł Kobyliński Nowoczesna: 
+PiS: 64; N: 63; Kukiz’15: 60; PO: 63; PSL: 55; Nowoczesna: 55; PO-KO: 77; Wolni i Solidarni: 55; Wolność i Skuteczni: 69; Liberalno-Społeczni: 75; 
+ 
+Jakub Kulesza Kukiz’15: 
+PiS: 58; N: 58; Kukiz’15: 52; PO: 58; PSL: 50; Nowoczesna: 52; PO-KO: 60; Wolni i Solidarni: 49; Wolność i Skuteczni: 60; Liberalno-Społeczni: 64; 
+Jakub Kulesza Wolność i Skuteczni: 
+PiS: 78; N: 73; Kukiz’15: 67; PO: 76; PSL: 62; Nowoczesna: 63; PO-KO: 150; Wolni i Solidarni: 56; Wolność i Skuteczni: 79; Liberalno-Społeczni: 79; 
+ 
+Kornelia Wróblewska Nowoczesna: 
+PiS: 66; N: 64; Kukiz’15: 61; PO: 67; PSL: 57; Nowoczesna: 58; PO-KO: 80; Wolni i Solidarni: 55; Wolność i Skuteczni: 67; Liberalno-Społeczni: 70; 
+Kornelia Wróblewska PO-KO: 
+PiS: 86; Kukiz’15: 88; PO: 90; PSL: 73; Nowoczesna: 78; Wolni i Solidarni: 84; Liberalno-Społeczni: 143; PO-KO: 238; N: 47; Wolność i Skuteczni: 118; 
+ 
+Kamila Gasiuk-Pihowicz PO-KO: 
+N: 62; PiS: 67; Kukiz’15: 61; PO: 64; PSL: 58; Nowoczesna: 51; Wolność i Skuteczni: 131; Wolni i Solidarni: 56; Liberalno-Społeczni: 71; PO-KO: 0; 
+Kamila Gasiuk-Pihowicz Nowoczesna: 
+PiS: 53; N: 52; Kukiz’15: 50; PO: 55; PSL: 49; Nowoczesna: 48; PO-KO: 55; Wolni i Solidarni: 48; Wolność i Skuteczni: 51; Liberalno-Społeczni: 56; 
+ 
+Michał Jaros Nowoczesna: 
+PiS: 76; N: 72; Kukiz’15: 67; PO: 76; PSL: 62; Nowoczesna: 64; PO-KO: 79; Wolni i Solidarni: 60; Wolność i Skuteczni: 73; Liberalno-Społeczni: 80; 
+Michał Jaros PO: 
+PiS: 94; N: 80; Kukiz’15: 81; PO: 91; PSL: 69; Nowoczesna: 74; PO-KO: 170; Wolni i Solidarni: 64; Wolność i Skuteczni: 98; Liberalno-Społeczni: 99; 
+ 
+Kornel Morawiecki Wolni i Solidarni: 
+PiS: 81; N: 79; Kukiz’15: 70; PO: 78; PSL: 62; Nowoczesna: 64; PO-KO: 93; Wolni i Solidarni: 50; Wolność i Skuteczni: 85; Liberalno-Społeczni: 91; 
+Kornel Morawiecki Kukiz’15: 
+N: 86; PiS: 88; Kukiz’15: 76; PO: 78; PSL: 72; Nowoczesna: 72; PO-KO: 136; Wolni i Solidarni: 78; Wolność i Skuteczni: 146; Liberalno-Społeczni: 112; 
+ 
+Magdalena Błeńska Kukiz’15: 
+PiS: 88; N: 104; Kukiz’15: 69; PO: 84; PSL: 67; Nowoczesna: 66; PO-KO: 28; Wolni i Solidarni: 70; Wolność i Skuteczni: 74; Liberalno-Społeczni: 92; 
+Magdalena Błeńska N: 
+N: 78; PiS: 72; Kukiz’15: 59; PO: 66; PSL: 48; Nowoczesna: 55; Wolni i Solidarni: 49; Liberalno-Społeczni: 71; Wolność i Skuteczni: 52; 
+ 
+Ryszard Petru Liberalno-Społeczni: 
+PiS: 68; N: 68; Kukiz’15: 61; PO: 67; PSL: 53; Nowoczesna: 59; PO-KO: 106; Wolni i Solidarni: 54; Wolność i Skuteczni: 89; Liberalno-Społeczni: 41; 
+Ryszard Petru Nowoczesna: 
+PiS: 55; N: 53; Kukiz’15: 51; PO: 56; PSL: 49; Nowoczesna: 49; PO-KO: 60; Wolni i Solidarni: 48; Wolność i Skuteczni: 61; Liberalno-Społeczni: 62; 
+ 
+Krzysztof Truskolaski Nowoczesna: 
+PiS: 58; N: 56; Kukiz’15: 53; PO: 59; PSL: 52; Nowoczesna: 52; PO-KO: 66; Wolni i Solidarni: 50; Wolność i Skuteczni: 60; Liberalno-Społeczni: 64; 
+Krzysztof Truskolaski PO-KO: 
+PO: 40; PSL: 25; Kukiz’15: 45; PiS: 22; Nowoczesna: 40; Liberalno-Społeczni: 71; Wolność i Skuteczni: 157; Wolni i Solidarni: 42; PO-KO: 0; 
+ 
+Grzegorz Furgo PO: 
+PiS: 64; N: 65; Kukiz’15: 58; PO: 65; PSL: 54; Nowoczesna: 57; PO-KO: 90; Wolni i Solidarni: 54; Wolność i Skuteczni: 70; Liberalno-Społeczni: 71; 
+Grzegorz Furgo Nowoczesna: 
+PiS: 50; N: 50; Kukiz’15: 46; PO: 51; PSL: 45; Nowoczesna: 44; PO-KO: 51; Wolni i Solidarni: 44; Wolność i Skuteczni: 50; Liberalno-Społeczni: 57; 
+ 
+Jarosław Porwich Kukiz’15: 
+PiS: 78; N: 76; Kukiz’15: 68; PO: 75; PSL: 63; Nowoczesna: 65; PO-KO: 112; Wolni i Solidarni: 63; Wolność i Skuteczni: 82; Liberalno-Społeczni: 78; 
+Jarosław Porwich Wolni i Solidarni: 
+PiS: 111; N: 116; Kukiz’15: 84; PO: 100; PSL: 76; Nowoczesna: 80; Wolni i Solidarni: 73; Liberalno-Społeczni: 119; PO-KO: 79; Wolność i Skuteczni: 92; 
+ 
+Sylwester Chruszcz Wolni i Solidarni: 
+PiS: 65; N: 59; Kukiz’15: 59; PO: 62; PSL: 55; Nowoczesna: 56; PO-KO: 68; Wolni i Solidarni: 44; Wolność i Skuteczni: 59; Liberalno-Społeczni: 59; 
+Sylwester Chruszcz Kukiz’15: 
+PiS: 48; N: 44; Kukiz’15: 43; PO: 47; PSL: 43; Nowoczesna: 44; PO-KO: 52; Wolni i Solidarni: 45; Wolność i Skuteczni: 46; Liberalno-Społeczni: 47; 
+ 
+Michał Stasiński Nowoczesna: 
+PiS: 65; N: 62; Kukiz’15: 59; PO: 66; PSL: 56; Nowoczesna: 56; PO-KO: 103; Wolni i Solidarni: 54; Wolność i Skuteczni: 79; Liberalno-Społeczni: 70; 
+Michał Stasiński PO: 
+PiS: 70; N: 65; Kukiz’15: 62; PO: 69; PSL: 58; Nowoczesna: 60; PO-KO: 90; Wolni i Solidarni: 59; Wolność i Skuteczni: 73; Liberalno-Społeczni: 78; 
+ 
+Piotr Liroy-Marzec Kukiz’15: 
+PiS: 66; N: 59; Kukiz’15: 60; PO: 68; PSL: 55; Nowoczesna: 56; Wolni i Solidarni: 52; Wolność i Skuteczni: 85; Liberalno-Społeczni: 80; PO-KO: 110; 
+Piotr Liroy-Marzec Wolność i Skuteczni: 
+PiS: 70; N: 66; Kukiz’15: 67; PO: 74; PSL: 59; Nowoczesna: 61; PO-KO: 148; Wolni i Solidarni: 56; Wolność i Skuteczni: 68; Liberalno-Społeczni: 94; 
+ 
+Joanna Scheuring-Wielgus Liberalno-Społeczni: 
+PiS: 59; N: 58; Kukiz’15: 53; PO: 60; PSL: 52; Nowoczesna: 53; PO-KO: 62; Wolni i Solidarni: 49; Wolność i Skuteczni: 66; Liberalno-Społeczni: 40; 
+Joanna Scheuring-Wielgus Nowoczesna: 
+PiS: 60; N: 62; Kukiz’15: 54; PO: 60; PSL: 53; Nowoczesna: 52; PO-KO: 69; Wolni i Solidarni: 49; Wolność i Skuteczni: 68; Liberalno-Społeczni: 70; 
+ 
+Joanna Augustynowska Nowoczesna: 
+PiS: 62; N: 60; Kukiz’15: 59; PO: 64; PSL: 54; Nowoczesna: 55; PO-KO: 71; Wolni i Solidarni: 53; Wolność i Skuteczni: 62; Liberalno-Społeczni: 69; 
+Joanna Augustynowska PO: 
+PiS: 75; N: 66; Kukiz’15: 65; PO: 75; PSL: 61; Nowoczesna: 62; PO-KO: 144; Wolni i Solidarni: 57; Wolność i Skuteczni: 86; Liberalno-Społeczni: 81; 
+ 
+Małgorzata Janowska PiS: 
+PiS: 105; N: 102; Kukiz’15: 83; PO: 101; PSL: 73; Nowoczesna: 75; Wolni i Solidarni: 75; Liberalno-Społeczni: 86; Wolność i Skuteczni: 47; 
+Małgorzata Janowska Republikanie: 
+N: 140; PiS: 121; Kukiz’15: 85; PO: 109; PSL: 77; Nowoczesna: 81; PO-KO: 159; Wolni i Solidarni: 77; Wolność i Skuteczni: 131; Liberalno-Społeczni: 119; 
+ 
+Joanna Schmidt Nowoczesna: 
+PiS: 62; N: 57; Kukiz’15: 57; PO: 63; PSL: 55; Nowoczesna: 53; PO-KO: 77; Wolni i Solidarni: 53; Wolność i Skuteczni: 67; Liberalno-Społeczni: 66; 
+Joanna Schmidt N: 
+PiS: 98; Kukiz’15: 76; PO: 95; PSL: 80; Nowoczesna: 86; Wolni i Solidarni: 84; Liberalno-Społeczni: 143; N: 47; Wolność i Skuteczni: 79; 
+ 
+Marta Golbik Nowoczesna: 
+PiS: 68; N: 67; Kukiz’15: 61; PO: 67; PSL: 58; Nowoczesna: 58; PO-KO: 91; Wolni i Solidarni: 57; Wolność i Skuteczni: 70; Liberalno-Społeczni: 73; 
+Marta Golbik PO: 
+PiS: 70; N: 68; Kukiz’15: 63; PO: 68; PSL: 57; Nowoczesna: 61; PO-KO: 93; Wolni i Solidarni: 56; Wolność i Skuteczni: 79; Liberalno-Społeczni: 75; 
+ 
+Adam Cyrański N: 
+PiS: 104; N: 93; Kukiz’15: 82; PO: 98; PSL: 72; Nowoczesna: 76; PO-KO: 87; Wolni i Solidarni: 74; Wolność i Skuteczni: 100; Liberalno-Społeczni: 104; 
+Adam Cyrański Nowoczesna: 
+PiS: 80; N: 80; Kukiz’15: 68; PO: 78; PSL: 62; Nowoczesna: 64; PO-KO: 108; Wolni i Solidarni: 64; Wolność i Skuteczni: 82; Liberalno-Społeczni: 81; 
+ 
+Michał Kamiński PSL: 
+PiS: 52; N: 55; Kukiz’15: 48; PO: 52; PSL: 44; Nowoczesna: 48; PO-KO: 56; Wolni i Solidarni: 44; Wolność i Skuteczni: 54; Liberalno-Społeczni: 58; 
+Michał Kamiński PO: 
+PiS: 68; N: 81; Kukiz’15: 60; PO: 65; PSL: 56; Nowoczesna: 56; PO-KO: 149; Wolni i Solidarni: 52; Wolność i Skuteczni: 84; Liberalno-Społeczni: 80; 
+ 
+Stanisław Huskowski PO: 
+PiS: 77; N: 73; Kukiz’15: 62; PO: 73; PSL: 58; Nowoczesna: 63; Wolni i Solidarni: 63; Wolność i Skuteczni: 90; Liberalno-Społeczni: 102; PO-KO: 68; 
+Stanisław Huskowski PSL: 
+PiS: 79; N: 78; Kukiz’15: 69; PO: 79; PSL: 63; Nowoczesna: 67; PO-KO: 79; Wolni i Solidarni: 61; Wolność i Skuteczni: 79; Liberalno-Społeczni: 91; 
+ 
+Jacek Wilk Wolność i Skuteczni: 
+PiS: 63; N: 58; Kukiz’15: 57; PO: 61; PSL: 53; Nowoczesna: 55; PO-KO: 108; Wolni i Solidarni: 53; Wolność i Skuteczni: 32; Liberalno-Społeczni: 71; 
+Jacek Wilk Kukiz’15: 
+PiS: 78; N: 80; Kukiz’15: 67; PO: 76; PSL: 60; Nowoczesna: 65; PO-KO: 143; Wolni i Solidarni: 60; Wolność i Skuteczni: 87; Liberalno-Społeczni: 70; 
+ 
+Jacek Protas PO: 
+PiS: 75; N: 75; Kukiz’15: 66; PO: 76; PSL: 62; Nowoczesna: 64; PO-KO: 65; Wolni i Solidarni: 59; Wolność i Skuteczni: 73; Liberalno-Społeczni: 85; 
+Jacek Protasiewicz PSL: 
+PiS: 54; N: 55; Kukiz’15: 51; PO: 55; PSL: 46; Nowoczesna: 50; PO-KO: 63; Wolni i Solidarni: 47; Wolność i Skuteczni: 57; Liberalno-Społeczni: 60; 
+ 
+Elżbieta Stępień Nowoczesna: 
+PiS: 55; N: 51; Kukiz’15: 52; PO: 56; PSL: 50; Nowoczesna: 49; PO-KO: 61; Wolni i Solidarni: 50; Wolność i Skuteczni: 55; Liberalno-Społeczni: 59; 
+Elżbieta Stępień N: 
+PiS: 74; N: 58; Kukiz’15: 65; PO: 79; PSL: 61; Nowoczesna: 61; Wolni i Solidarni: 60; Liberalno-Społeczni: 71; PO-KO: 60; Wolność i Skuteczni: 39; 
+ 
+Zbigniew Gryglas Nowoczesna: 
+PiS: 62; N: 58; Kukiz’15: 57; PO: 62; PSL: 54; Nowoczesna: 53; PO-KO: 60; Wolni i Solidarni: 54; Wolność i Skuteczni: 65; Liberalno-Społeczni: 64; 
+Zbigniew Gryglas PiS: 
+PiS: 83; N: 86; Kukiz’15: 70; PO: 81; PSL: 64; Nowoczesna: 67; PO-KO: 87; Wolni i Solidarni: 65; Wolność i Skuteczni: 91; Liberalno-Społeczni: 91; 
+ 
+Ireneusz Zyska Wolni i Solidarni: 
+PiS: 47; N: 45; Kukiz’15: 46; PO: 47; PSL: 45; Nowoczesna: 45; PO-KO: 53; Wolni i Solidarni: 29; Wolność i Skuteczni: 50; Liberalno-Społeczni: 45; 
+Ireneusz Zyska Kukiz’15: 
+PiS: 82; N: 82; Kukiz’15: 69; PO: 79; PSL: 62; Nowoczesna: 64; PO-KO: 90; Wolni i Solidarni: 63; Wolność i Skuteczni: 81; Liberalno-Społeczni: 81; 
+ 
+Stefan Niesiołowski PO: 
+PiS: 66; N: 61; Kukiz’15: 59; PO: 66; PSL: 54; Nowoczesna: 55; PO-KO: 93; Wolni i Solidarni: 50; Wolność i Skuteczni: 71; Liberalno-Społeczni: 71; 
+Stefan Niesiołowski PSL: 
+PiS: 53; N: 54; Kukiz’15: 49; PO: 53; PSL: 44; Nowoczesna: 46; PO-KO: 61; Wolni i Solidarni: 46; Wolność i Skuteczni: 58; Liberalno-Społeczni: 55; 
+ 
